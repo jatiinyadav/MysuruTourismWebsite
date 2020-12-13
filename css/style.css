@@ -921,8 +921,7 @@ body {
 
 .header {
     height: 100vh;
-    background-image: url(img/mainpalace.jpeg);
-    background-size: cover;
+    background-image: url(/img/mainpalace.jpg);
     background-position: top;
     position: relative;
 }
@@ -1309,7 +1308,7 @@ body {
 
 .paragraph {
     font-family: 'sans';
-    color: white;
+    color: rgb(0, 0, 0);
     font-size: 1.30rem;
 }
 
