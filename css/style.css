@@ -12,7 +12,7 @@
 
 @font-face {
     font-family: 'sans';
-    src: url('/font/sans.ttf');
+    src: url('fonts/sans.ttf');
 }
 
 p li {
@@ -921,7 +921,8 @@ body {
 
 .header {
     height: 100vh;
-    background-image: url(/img/mainpalace.jpg);
+    background-image: url(../img/mainpalace.jpeg);
+    background-size: cover;
     background-position: top;
     position: relative;
 }
@@ -936,6 +937,7 @@ body {
 
 .header-logo {
     height: 8rem;
+    border-radius: 2rem;
     /* -webkit-filter: drop-shadow(5px 5px 5px white);
         filter: drop-shadow(5px 5px 5px white); */
 }
@@ -1614,7 +1616,7 @@ body {
 }
 
 .card-detail-value {
-    font-size: 5rem;
+    font-size: 3rem;
     font-weight: 100;
 }
 
