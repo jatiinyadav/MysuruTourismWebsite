@@ -6,7 +6,7 @@
   <h3 align="center">Mysuru Tourism Website</h3>
 
   <p align="center">
-    A simple responsive website which is made for Mysuru Tourism ✈
+    A simple responsive website which is made for Mysuru Tourism, Karnataka ✈
     <br />
     
   </p>
